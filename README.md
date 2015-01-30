@@ -1,6 +1,7 @@
 # The Shell
 
-Author: Tracy Teal  
+Author: A. Sean Pue
+Original Author: Tracy Teal  
 Original contributors:
 Paul Wilson, Milad Fatenejad, Sasha Wood and Radhika Khetani for Software Carpentry (http://http://software-carpentry.org/)
 
@@ -125,7 +126,7 @@ Now we're going to download the data for the tutorial. For this you'll need
 internet access, because you're going to get it off the web.  
 Enter the command:
 
-    git clone https://github.com/tracykteal/msu_al340.git
+    git clone https://github.com/seanpue/msu_al340.git
 
 This command will grab all of the data needed for this workshop from
 the internet.  (We're not going to talk about git right now, but it's a tool for
@@ -1018,13 +1019,15 @@ search for files which do not match a certain name.
 - man bash
 - Google - if you don't know how to do something, try Googling it. Other people
 have probably had the same question.
+- [MSU Library](http://lib.msu.edu)! There are lots of full-text e-books available there
+  - try search for Unix Linux   
 - Learn by doing. There's no real other way to learn this than by trying it
 out.  Write your next paper in nano (really emacs or vi), open pdfs from
 the command line, automate something you don't really need to automate.
 
 ## What are computational resources at MSU
 
-- The people who run this server
+- The people who run this server (Russ Werner and Brian Adams)
 - iCER and the High Performance Computing Cluster http://icer.msu.edu
 If you're doing work with a professor, you can get a free account and storage
 on the HPCC.  There are also people at iCER who will help get you started
