@@ -362,6 +362,19 @@ To summarize, while you are in the `shell` directory, the commands
 same thing. These shortcuts are not necessary, they are provided for
 your convenience.
 
+### Geek Humour Interlude
+
+From the command line, type the following:
+
+    traceroute github.com
+    
+The command `traceroute` prints the route packets take to network host.
+For more information, type `man traceroute`.
+
+Now, for some geek humour, type the following command:
+
+    traceroute 216.81.59.173
+
 ### Our data set: Interview Subjects
 
 We want to interview people about their experience in the Polar Vortex of
