@@ -25,9 +25,8 @@ with a keyboard instead of controlling graphical user interfaces
 
 There are many reasons to learn about the shell.
 
-* For most bioinformatics tools, you have to use the shell. There is no
-graphical interface. If you want to work in metagenomics or genomics you're
-going to need to use the shell.
+* For many DH tools, you have to use the shell. There is not necessarily a
+graphical interface.
 * The shell gives you *power*. The command line gives you the power to do your work more efficiently and
 more quickly.  When you need to do things tens to hundreds of times,
 knowing how to use the shell is transformative.
@@ -155,10 +154,10 @@ As you've already just seen, you can move around in different directories
 or folders at the command line. Why would you want to do this, rather
 than just navigating around the normal way.
 
-When you're working with bioinformatics programs, you're working with
+When you're working with many command-line-based programs, you're working with
 your data and it's key to be able to have that data in the right place
 and make sure the program has access to the data. Many of the problems
-people run in to with command line bioinformatics programs is not having the
+people run in to with command line programs is not having the
 data in the place the program expects it to be.
 
 The file structure looks like this:
